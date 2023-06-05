@@ -510,7 +510,7 @@ body {
     width: 395px;
     height: 440px;
     background-size: cover;
-    background-image: url('/fotos/zukunft.jpg');
+    background-image: url('./fotos/zukunft.jpg');
 }
 
 .done {
