@@ -84,14 +84,13 @@ body {
     background-image: url(fotos/dopet.png);
 }
 
-
-.form {
+{
     color: white;
     margin-top: 3.65%;
     position: relative;
     display: flex;
     justify-content: center;
-    width: 50%px;
+    width: 50%;
     border-radius: 20px;
     height: 550px;
     background-color: rgba(255, 255, 255, 0.09);
