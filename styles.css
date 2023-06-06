@@ -90,9 +90,9 @@ body {
     position: relative;
     display: flex;
     justify-content: center;
-    width: 50%;
+    width: 60%;
     margin-left: 25%;
-    margin-top: 5%;
+    margin-top: 15%;
     border-radius: 20px;
     height: 550px;
     background-color: rgba(255, 255, 255, 0.09);
@@ -579,7 +579,10 @@ body {
             width: 95%;
         }
         
-        .form {
+        .
+        
+        
+     {
             width: 100%;
             margin-top: 30%;
             margin-left: 0%;
