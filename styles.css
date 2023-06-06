@@ -379,11 +379,10 @@ body {
 
 #biba {
     margin-left: 30%;
-    margin-top: 30%;
+    margin-top: 25%;
     display: flex;
     color: white;
     width: 40%;
-    background-color: aqua;
     align-items: center;
     justify-content: center;
 }
