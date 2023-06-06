@@ -486,7 +486,7 @@ body {
     width: 395px;
     height: 440px;
     background-size: cover;
-    background-image: url('./fotos/server.jpg;')
+    background-image: url('./fotos/server.jpg');
 }
 
 .pf-fotos-2 {
