@@ -386,6 +386,7 @@ body {
     display: flex;
     color: white;
     width: 40%;
+    background-color: aqua;
     align-items: center;
     justify-content: center;
 }
