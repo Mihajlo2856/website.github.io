@@ -21,7 +21,6 @@ body {
 
 .navbtn {
     display: inline-block;
-    cursor: pointer;
     outline: none;
     border: none;
     background-color: transparent;
@@ -79,8 +78,6 @@ body {
 
 .body-ind {
     display: flex;
-    justify-content: center;
-    align-items: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
